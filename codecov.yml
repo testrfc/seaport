@@ -3,7 +3,7 @@ coverage:
   round: down
   precision: 2
   status:
-    project:
+    project: 
       default:
         target: auto
         threshold: 0%
