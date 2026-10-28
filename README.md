@@ -8,7 +8,7 @@
 [![Discussions][discussions-badge]][discussions-link]
 [![JS Library][js-library-badge]][js-library-link]
 [![Discord][discord-badge]][discord-link]
-
+ 
 # Seaport
 
 Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.
